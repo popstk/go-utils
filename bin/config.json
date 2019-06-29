@@ -1,0 +1,16 @@
+{
+  "sshArgs": [
+    "-oHostKeyAlgorithms=+ssh-dss",
+    "-oCiphers=+aes128-cbc",
+    "-oServerAliveInterval=5",
+    "-oServerAliveCountMax=1000",
+    "-vvv"
+  ],
+  "cmd": [
+    "C:\\MyProgram\\cmder\\vendor\\conemu-maximus5\\ConEmu64.exe",
+    "-run",
+    "-new_console:t:{fragment}",
+    "{ssh}"
+  ]
+}
+
