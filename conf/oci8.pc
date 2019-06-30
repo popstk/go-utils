@@ -1,0 +1,14 @@
+prefix=/mnt/d/Services/linux/instantclient_11_2
+
+version=11.2
+build=client64
+
+libdir=${prefix}
+includedir=${prefix}/sdk/include/
+
+Name: oci8
+Description: Oracle database engine
+Version: ${version}
+Libs: -L${libdir} -lclntsh -lnnz11
+Libs.private:
+Cflags: -I${includedir}
