@@ -1,0 +1,24 @@
+{
+  "src": {
+   "driver": "mysql",
+    "url": "mmclient_read:Readapp12#@tcp(10.153.137.6:3307)/?parseTime=true"
+  },
+  "dest": {
+    "driver": "oci8",
+    "url": "aspbi_mm/wYY3RJPx@PDSDB"
+  },
+  "tables": [
+    {
+      "from": "rdchot.tb_push_manage",
+      "to": "aspbi_mm.tb_push_manage"
+    },
+    {
+      "from": "rdccms.tb_news_outside",
+      "to": "aspbi_mm.tb_news_outside"
+    },
+    {
+      "from": "rdccms.tb_news_online",
+      "to": " aspbi_mm.tb_news_online"
+    }
+  ]
+}

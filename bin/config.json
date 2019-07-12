@@ -6,7 +6,7 @@
     "-oServerAliveCountMax=1000"
   ],
   "cmd": [
-    "C:\\MyProgram\\cmder\\vendor\\conemu-maximus5\\ConEmu64.exe",
+    "D:\\CleanProgram\\cmder\\vendor\\conemu-maximus5\\ConEmu64.exe",
     "-run",
     "-new_console:t:{fragment}",
     "{ssh}"
