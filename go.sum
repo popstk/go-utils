@@ -1,8 +1,4 @@
 github.com/atotto/clipboard v0.1.2 h1:YZCtFu5Ie8qX2VmVTBnrqLSiU9XOWwqNRmdT3gIQzbY=
 github.com/atotto/clipboard v0.1.2/go.mod h1:ZY9tmq7sm5xIbd9bOK4onWV4S6X0u6GY7Vn0Yu86PYI=
-github.com/go-sql-driver/mysql v1.4.1 h1:g24URVg0OFbNUTx9qqY1IRZ9D9z3iPyi5zKhQZpNwpA=
-github.com/go-sql-driver/mysql v1.4.1/go.mod h1:zAC/RDZ24gD3HViQzih4MyKcchzm+sOG5ZlKdlhCg5w=
-github.com/mattn/go-oci8 v0.0.0-20190524004114-abcafa411cc8 h1:f6VmRhxS0zvzsi+8snVfi9gSYhjMnb5Rmy4vnQJ107Q=
-github.com/mattn/go-oci8 v0.0.0-20190524004114-abcafa411cc8/go.mod h1:/M9VLO+lUPmxvoOK2PfWRZ8mTtB4q1Hy9lEGijv9Nr8=
-github.com/pkg/errors v0.8.1 h1:iURUrRGxPUNPdy5/HRSm+Yj6okJ6UtLINN0Q9M4+h3I=
-github.com/pkg/errors v0.8.1/go.mod h1:bwawxfHBFNV+L2hUp1rHADufV3IMtnDRdf1r5NINEl0=
+github.com/samuel/go-zookeeper v0.0.0-20190801204459-3c104360edc8 h1:7JRiTToRlA2H26eFPgVIVNfTG4LZzRUDnlWJ3Eco3XA=
+github.com/samuel/go-zookeeper v0.0.0-20190801204459-3c104360edc8/go.mod h1:gi+0XIa01GRL2eRQVjQkKGqKF3SF9vZR/HnPullcV2E=
